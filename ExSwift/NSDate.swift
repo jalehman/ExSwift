@@ -170,30 +170,33 @@ public extension NSDate {
     /**
         Date year
     */
+    /*
     public var year : Int {
         get {
             return getComponent(.CalendarUnitYear)
         }
-    }
+    }*/
 
     /**
         Date month
     */
+    /*
     public var month : Int {
         get {
             return getComponent(.CalendarUnitMonth)
         }
-    }
+    }*/
     
     /**
         Date weekday
     */
+    /*
     public var weekday : Int {
         get {
             return getComponent(.CalendarUnitWeekday)
         }
     }
-
+    */
     /**
         Date weekMonth
     */
